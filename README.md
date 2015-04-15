@@ -21,8 +21,7 @@ of the Silk icon set contents within a readme file or equivalent documentation f
 software which includes the set or a subset of the icons contained within."
 
 This means you may use it for any purpose, and make any changes you like.
-All I ask is that you include a link back to this page in your credits:
-[http://www.famfamfam.com/lab/icons/silk/]
+All I ask is that you include a link back to this page in your credits: http://www.famfamfam.com/lab/icons/silk/
 
 Are you using this icon set? Send me an email (including a link or picture if available) to
 mjames@gmail.com
