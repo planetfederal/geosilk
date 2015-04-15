@@ -1,0 +1,54 @@
+8
+
+dir
+12
+http://svn.opengeo.org/geosilk/trunk/other
+http://svn.opengeo.org/geosilk
+
+
+
+2009-07-07T18:19:55.765667Z
+11
+rpenate
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+77ab4a3d-7bbc-42f2-b604-b6f541805395
+
+google_earth.png
+file
+
+
+
+
+2009-07-06T15:57:25.000000Z
+377c9d104a510ee71fc04de276978541
+2009-07-07T18:19:55.765667Z
+11
+rpenate
+has-props
+
+kml.png
+file
+
+
+
+
+2009-04-03T19:14:01.000000Z
+dc3b5f8c124ae886743a11c522d7c7e9
+2009-04-08T19:09:34.692989Z
+1
+rpenate
+has-props
+
